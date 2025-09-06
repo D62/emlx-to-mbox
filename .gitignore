@@ -1,0 +1,18 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Python virtual environments
+.env/
+.venv/
+venv/
+
+# Progress file
+progress.json
+
+# Editor settings
+.vscode/
+.idea/
